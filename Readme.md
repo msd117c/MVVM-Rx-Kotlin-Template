@@ -12,11 +12,11 @@ This is a simple example of MVVM architecture making use of:
  
 It has a base package to reduce boilerplate code and allow programer to save time and code activities faster and more legible.
 
+This diagram shows the main project's structure
+<img src="http://msd117.es/cv/images/mvvm_architecture.png" />    
 
-<img src="http://msd117.es/cv/images/mvvm_architecture.png" />
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-This diagram shows the main project's structure    
-                                                         
 <img src="http://msd117.es/cv/images/mvvm_flow.png" />
 
 The architecture works as follow:
